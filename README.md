@@ -17,7 +17,6 @@ Results-driven Senior Software Development Engineer in Test (SDET) with 4+ years
 ## 📄 Resume
 
 [![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/rama-ahire-sdet/rama-ahire-sdet/raw/main/Ram_Ahire_Senior_SDET_Resume.pdf)
-```
 
 ---
 
