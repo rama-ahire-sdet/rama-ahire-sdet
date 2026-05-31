@@ -106,14 +106,6 @@ Hands-on projects exploring Artificial Intelligence, Machine Learning, and AI-as
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rama-ahire-sdet&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rama-ahire-sdet&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/ram-ahire-79910321b
